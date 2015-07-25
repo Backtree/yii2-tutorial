@@ -1,4 +1,4 @@
-# Yii 2 Starter Kit
+# Yii2-tutarial
 
 <!-- BADGES/ -->
 
