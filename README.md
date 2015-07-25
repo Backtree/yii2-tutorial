@@ -26,10 +26,10 @@ It covers typical use cases for a new project and will help you not to waste you
 
 ##DEMO
 Frontend:
-http://yii2-starter-kit.terentev.net
+http://bankrutik.16mb.com
 
 Backend:
-http://backend.yii2-starter-kit.terentev.net
+http://bankrutik.16mb.com/backend/web
 
 `administrator` role account
 ```
